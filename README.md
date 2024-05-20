@@ -4,7 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
+
 This project is a starting point for a Flutter application.
+
+How to build the app-
+-Run command flutter clean in the terminal.
+-Run Command Flutter pub get in the terminal.
+
+How to run the app-
+-Connect your mobile device to machine.
+-And run app
+
 
 A few resources to get you started if this is your first Flutter project:
 
